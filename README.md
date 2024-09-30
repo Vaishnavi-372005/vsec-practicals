@@ -6,9 +6,9 @@
 'H3 tag'
 ### AI tools
 
- 'Italic'
-* I'm a student
-  * from sy- B AIDS
+ 'bold'
+** I'm a student
+  ** from sy- B AIDS
 <hr>    
 
 'Style : Subscript'</br>
