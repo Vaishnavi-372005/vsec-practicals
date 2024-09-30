@@ -7,8 +7,8 @@
 ### AI tools
 
  
-** I'm a student
-  ** from sy- B AIDS
+** I'm a student **
+  ** from sy- B AIDS **
 <hr>    
 
 'Style : Subscript'</br>
