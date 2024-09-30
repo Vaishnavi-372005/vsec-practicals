@@ -6,9 +6,8 @@
 'H3 tag'
 ### AI tools
 
- 
-** I'm a student **
-  ** from sy- B AIDS **
+ ** I'm a student **
+
 <hr>    
 
 'Style : Subscript'</br>
