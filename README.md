@@ -1,4 +1,4 @@
-# vsec-practicals
+
 'H1 tag'
 # Artificial Intelligence and Data Science
 'H2 tag'
@@ -6,7 +6,7 @@
 'H3 tag'
 ### AI tools
 
-'style : Italic'</br>
+ 'Italic'
 * I'm a student
   * from sy- B AIDS
 <hr>    
